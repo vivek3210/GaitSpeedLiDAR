@@ -6,10 +6,10 @@ A group based project in which a single sensor Gate Speed system was in need of 
 
 ## Hardware
 
--1x Adafruit ESP32 S2
--1x Garmin LiDAR L4-Lite
--1x Qwicc I2C Display
--2x Qwicc Connectors
+- Adafruit ESP32 S2
+- Garmin LiDAR L4-Lite
+- Qwicc I2C Display
+- Qwicc Connectors
 
 ## Group Members
 Vivek Darji, Elanor Moore, Nayonika Banerjee
